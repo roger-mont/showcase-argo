@@ -157,7 +157,7 @@ Sou o autor da maioria dos commits do repositório (6 de 8, sem contar merges). 
 - a extensão Argo Coletor e a coleta assistida do portal do servidor, incluindo o endpoint que recebe os PDFs coletados;
 - o painel da extensão para o login gov.br, com a senha revelada só sob permissão;
 - a sinalização na interface dos portais antigos que saíram do ar;
-- a documentação de deploy.
+- o deploy em produção e a documentação de deploy.
 
 ---
 

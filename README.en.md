@@ -155,7 +155,7 @@ I wrote most of the commits in the repository (6 of 8, merges excluded). The ini
 - the Argo Coletor extension and assisted collection for the civil-servant portal, including the endpoint that receives the collected PDFs;
 - the extension's gov.br login panel, which shows the saved password only to authorized users;
 - flagging in the UI the legacy portals that went offline;
-- the deployment documentation.
+- the production deploy and its documentation.
 
 ---
 
